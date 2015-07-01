@@ -1,0 +1,13 @@
+{
+  "generator-bangular": {
+    "version": "0.11.2",
+    "filters": {
+      "backend": "json",
+      "reload": "browsersync",
+      "ngResource": true,
+      "ngSanitize": true,
+      "ngAnimate": true,
+      "control": true
+    }
+  }
+}
