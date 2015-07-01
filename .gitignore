@@ -10,3 +10,6 @@ idea/
 dist/
 
 .sass-cache/
+
+express-bangular-server.sublime-project
+express-bangular-server.sublime-workspace
